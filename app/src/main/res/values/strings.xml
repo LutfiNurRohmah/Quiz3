@@ -9,4 +9,8 @@
     <string name="hint_username">Your username</string>
     <string name="dont_have_account">Don\'t have an account yet?</string>
     <string name="register">Register</string>
+    <string name="full_name">Full Name</string>
+    <string name="hint_fullname">Your full name</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="hint_confirm_password">Confirm your password</string>
 </resources>
